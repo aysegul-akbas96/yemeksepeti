@@ -1,0 +1,21 @@
+C:\Users\smart.ogrenci\Desktop\15 Mart 2019--Yemek Sepeti\15 Mart 2019--Yemek Sepeti\bin\Debug\15 Mart 2019--Yemek Sepeti.exe.config
+C:\Users\smart.ogrenci\Desktop\15 Mart 2019--Yemek Sepeti\15 Mart 2019--Yemek Sepeti\bin\Debug\15 Mart 2019--Yemek Sepeti.exe
+C:\Users\smart.ogrenci\Desktop\15 Mart 2019--Yemek Sepeti\15 Mart 2019--Yemek Sepeti\bin\Debug\15 Mart 2019--Yemek Sepeti.pdb
+C:\Users\smart.ogrenci\Desktop\15 Mart 2019--Yemek Sepeti\15 Mart 2019--Yemek Sepeti\obj\Debug\15 Mart 2019--Yemek Sepeti.csprojResolveAssemblyReference.cache
+C:\Users\smart.ogrenci\Desktop\15 Mart 2019--Yemek Sepeti\15 Mart 2019--Yemek Sepeti\obj\Debug\_15_Mart_2019__Yemek_Sepeti.Form1.resources
+C:\Users\smart.ogrenci\Desktop\15 Mart 2019--Yemek Sepeti\15 Mart 2019--Yemek Sepeti\obj\Debug\_15_Mart_2019__Yemek_Sepeti.Properties.Resources.resources
+C:\Users\smart.ogrenci\Desktop\15 Mart 2019--Yemek Sepeti\15 Mart 2019--Yemek Sepeti\obj\Debug\15 Mart 2019--Yemek Sepeti.csproj.GenerateResource.Cache
+C:\Users\smart.ogrenci\Desktop\15 Mart 2019--Yemek Sepeti\15 Mart 2019--Yemek Sepeti\obj\Debug\15 Mart 2019--Yemek Sepeti.exe
+C:\Users\smart.ogrenci\Desktop\15 Mart 2019--Yemek Sepeti\15 Mart 2019--Yemek Sepeti\obj\Debug\15 Mart 2019--Yemek Sepeti.pdb
+C:\Users\smart.ogrenci\Desktop\15 Mart 2019--Yemek Sepeti\15 Mart 2019--Yemek Sepeti\obj\Debug\_15_Mart_2019__Yemek_Sepeti.Burger.resources
+C:\Users\HP\Desktop\Smart Pro Kurs Çalışmalarım\Ayşegül Ders Uygulamaları\15 Mart 2019--Yemek Sepeti\15 Mart 2019--Yemek Sepeti\bin\Debug\15 Mart 2019--Yemek Sepeti.exe.config
+C:\Users\HP\Desktop\Smart Pro Kurs Çalışmalarım\Ayşegül Ders Uygulamaları\15 Mart 2019--Yemek Sepeti\15 Mart 2019--Yemek Sepeti\bin\Debug\15 Mart 2019--Yemek Sepeti.exe
+C:\Users\HP\Desktop\Smart Pro Kurs Çalışmalarım\Ayşegül Ders Uygulamaları\15 Mart 2019--Yemek Sepeti\15 Mart 2019--Yemek Sepeti\bin\Debug\15 Mart 2019--Yemek Sepeti.pdb
+C:\Users\HP\Desktop\Smart Pro Kurs Çalışmalarım\Ayşegül Ders Uygulamaları\15 Mart 2019--Yemek Sepeti\15 Mart 2019--Yemek Sepeti\obj\Debug\15 Mart 2019--Yemek Sepeti.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Smart Pro Kurs Çalışmalarım\Ayşegül Ders Uygulamaları\15 Mart 2019--Yemek Sepeti\15 Mart 2019--Yemek Sepeti\obj\Debug\_15_Mart_2019__Yemek_Sepeti.Burger.resources
+C:\Users\HP\Desktop\Smart Pro Kurs Çalışmalarım\Ayşegül Ders Uygulamaları\15 Mart 2019--Yemek Sepeti\15 Mart 2019--Yemek Sepeti\obj\Debug\_15_Mart_2019__Yemek_Sepeti.Form1.resources
+C:\Users\HP\Desktop\Smart Pro Kurs Çalışmalarım\Ayşegül Ders Uygulamaları\15 Mart 2019--Yemek Sepeti\15 Mart 2019--Yemek Sepeti\obj\Debug\_15_Mart_2019__Yemek_Sepeti.Properties.Resources.resources
+C:\Users\HP\Desktop\Smart Pro Kurs Çalışmalarım\Ayşegül Ders Uygulamaları\15 Mart 2019--Yemek Sepeti\15 Mart 2019--Yemek Sepeti\obj\Debug\15 Mart 2019--Yemek Sepeti.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Smart Pro Kurs Çalışmalarım\Ayşegül Ders Uygulamaları\15 Mart 2019--Yemek Sepeti\15 Mart 2019--Yemek Sepeti\obj\Debug\15 Mart 2019--Yemek Sepeti.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Smart Pro Kurs Çalışmalarım\Ayşegül Ders Uygulamaları\15 Mart 2019--Yemek Sepeti\15 Mart 2019--Yemek Sepeti\obj\Debug\15 Mart 2019--Yemek Sepeti.exe
+C:\Users\HP\Desktop\Smart Pro Kurs Çalışmalarım\Ayşegül Ders Uygulamaları\15 Mart 2019--Yemek Sepeti\15 Mart 2019--Yemek Sepeti\obj\Debug\15 Mart 2019--Yemek Sepeti.pdb
